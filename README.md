@@ -3,7 +3,7 @@
 A premium, modern, and highly interactive portfolio website for Nitesh Bawane, a Quality Assurance Automation Engineer with 4+ years of experience. Built with a focus on high-end UI/UX, glassmorphism, and performance.
 
 ## 🚀 Live Demo
-Visit the live site: [niteshbawane.github.io/Nitesh_Bawane_Portfolio_Website/](https://niteshbawane.github.io/Nitesh_Bawane_Portfolio_Website/) (Requires GitHub Pages deployment)
+Visit the live site: [niteshbawane.netlify.app](https://niteshbawane.netlify.app) (Requires Connecting GitHub to Netlify)
 
 ## ✨ Key Features
 - **Modern Glassmorphism Design**: Sophisticated UI with blur effects, vibrant gradients, and premium aesthetics.
